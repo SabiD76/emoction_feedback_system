@@ -1,4 +1,4 @@
-from textblob import TextBlob
+from textblob import TextBlob   //pip install TextBlob
 
 feedback1="The boy is good"
 feedback2="you are so bad"
